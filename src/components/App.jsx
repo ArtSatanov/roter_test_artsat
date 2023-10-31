@@ -7,23 +7,23 @@ import { NotFound } from '../pages/NotFound';
 import { ProductDetails } from '../pages/ProductDetails';
 import { Container, Header, Logo, Link } from './App.styled';
 
-const StyledLink = styled(NavLink)`
-  color: black;
-
-  &.active {
-    color: orange;
-  }
-`;
-
 export const App = () => {
   return (
     <Container>
       <Header>
-        <StyledLink to="/" end>
-          Home
-        </StyledLink>
-        <StyledLink to="/about">About</StyledLink>
-        <StyledLink to="/products">Products</StyledLink>
+        <Logo>
+          <span role="img" aria-label="computer icon">
+            💻
+          </span>{' '}
+          GoMerch Store
+        </Logo>
+        <nav>
+          <Link to="/" end>
+            Home
+          </Link>
+          <Link to="/about">About</Link>
+          <Link to="/products">Products</Link>
+        </nav>
       </Header>
 
       <Routes>
