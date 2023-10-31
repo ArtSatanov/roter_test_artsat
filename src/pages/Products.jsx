@@ -1,4 +1,4 @@
-import { getProducts } from '../../fakeAPI';
+import { getProducts } from '../fakeAPI';
 
 export const Products = () => {
   const products = getProducts();
