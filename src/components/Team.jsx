@@ -1,6 +1,6 @@
 export const Team = () => {
    return (
-          <section>
+    <section>
       <ul>
         <li>
           <b>CEO</b> - Gabrijela Vohu Manah
