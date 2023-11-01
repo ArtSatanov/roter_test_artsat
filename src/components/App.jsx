@@ -6,6 +6,7 @@ import { Products } from '../pages/Products';
 import { NotFound } from '../pages/NotFound';
 import { ProductDetails } from '../pages/ProductDetails';
 import { Container, Header, Logo, Link } from './App.styled';
+import { Mission } from './Mission';
 
 export const App = () => {
   return (
