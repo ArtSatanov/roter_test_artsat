@@ -1,4 +1,4 @@
-import { Link, Outlet } from "react-router-dom";
+import { Link, Outlet } from 'react-router-dom';
 
 export const About = () => {
   return (
@@ -19,16 +19,18 @@ export const About = () => {
       </p>
       <ul>
         <li>
-          <Link to='mission'>Read about our mission</Link>
+          <Link to="mission">Read about our mission</Link>
         </li>
         <li>
-          <Link to='team'>Get to know the team</Link>
+          <Link to="team">Get to know the team</Link>
         </li>
         <li>
-          <Link to='reviews'>Go through the reviews</Link>
+          <Link to="reviews">Go through the reviews</Link>
         </li>
       </ul>
-      <Outlet />
+      <Suspense fallback={<div>Loading page...</div>}>
+        <Outlet />
+      </Suspense>
     </main>
   );
 };
