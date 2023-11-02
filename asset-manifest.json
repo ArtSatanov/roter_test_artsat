@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/roter_test_artsat/static/css/main.7c4f8962.css",
+    "main.js": "/roter_test_artsat/static/js/main.817e5486.js",
+    "static/js/175.4d261226.chunk.js": "/roter_test_artsat/static/js/175.4d261226.chunk.js",
+    "static/js/415.4c9e6f6f.chunk.js": "/roter_test_artsat/static/js/415.4c9e6f6f.chunk.js",
+    "static/js/199.8558e571.chunk.js": "/roter_test_artsat/static/js/199.8558e571.chunk.js",
+    "static/js/939.21b70400.chunk.js": "/roter_test_artsat/static/js/939.21b70400.chunk.js",
+    "static/js/651.03888858.chunk.js": "/roter_test_artsat/static/js/651.03888858.chunk.js",
+    "static/js/681.12bc170b.chunk.js": "/roter_test_artsat/static/js/681.12bc170b.chunk.js",
+    "static/js/229.532f7847.chunk.js": "/roter_test_artsat/static/js/229.532f7847.chunk.js",
+    "static/js/128.ba0004f0.chunk.js": "/roter_test_artsat/static/js/128.ba0004f0.chunk.js",
+    "index.html": "/roter_test_artsat/index.html",
+    "main.7c4f8962.css.map": "/roter_test_artsat/static/css/main.7c4f8962.css.map",
+    "main.817e5486.js.map": "/roter_test_artsat/static/js/main.817e5486.js.map",
+    "175.4d261226.chunk.js.map": "/roter_test_artsat/static/js/175.4d261226.chunk.js.map",
+    "415.4c9e6f6f.chunk.js.map": "/roter_test_artsat/static/js/415.4c9e6f6f.chunk.js.map",
+    "199.8558e571.chunk.js.map": "/roter_test_artsat/static/js/199.8558e571.chunk.js.map",
+    "939.21b70400.chunk.js.map": "/roter_test_artsat/static/js/939.21b70400.chunk.js.map",
+    "651.03888858.chunk.js.map": "/roter_test_artsat/static/js/651.03888858.chunk.js.map",
+    "681.12bc170b.chunk.js.map": "/roter_test_artsat/static/js/681.12bc170b.chunk.js.map",
+    "229.532f7847.chunk.js.map": "/roter_test_artsat/static/js/229.532f7847.chunk.js.map",
+    "128.ba0004f0.chunk.js.map": "/roter_test_artsat/static/js/128.ba0004f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4f8962.css",
+    "static/js/main.817e5486.js"
+  ]
+}
