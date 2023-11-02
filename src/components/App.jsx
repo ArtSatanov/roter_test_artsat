@@ -1,13 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import { SharedLayout } from './SharedLayout';
-import { About } from '../pages/About';
-import { Home } from '../pages/Home';
-import { Products } from '../pages/Products';
 import { NotFound } from '../pages/NotFound';
-import { ProductDetails } from '../pages/ProductDetails';
-import { Mission } from './Mission';
-import { Team } from './Team';
-import { Reviews } from './Reviews';
 import { lazy } from 'react';
 
 const About = lazy(() => import('../pages/About'));
