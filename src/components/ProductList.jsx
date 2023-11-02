@@ -1,7 +1,7 @@
 import { Container, CardWrapper, ProductName } from './ProductList.styled';
 import { Link } from 'react-router-dom';
 
-export const ProductList = ({ products }) => {
+export const ProductList = ({ products } ) => {
   return (
     <Container>
       {products.map(product => (

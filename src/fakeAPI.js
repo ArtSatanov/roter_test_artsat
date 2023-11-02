@@ -15,6 +15,6 @@ export const getProducts = () => {
   return products;
 };
 
-export const getProductById = pordId => {
-  return products.filter(product => product.id === pordId);
+export const getProductById = (pordId) => {
+  return products.filter((product) => product.id === pordId);
 };
